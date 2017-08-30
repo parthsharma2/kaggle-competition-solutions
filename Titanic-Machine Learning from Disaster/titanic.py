@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 28 22:06:28 2017
 
-@author: admin
+@author: parthsharma2
 """
 #Importing numpy, pandas and RandomForestClassifier
 import numpy as np
